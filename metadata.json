@@ -1,0 +1,5 @@
+{
+  "name": "SalesForecast PAO",
+  "description": "Herramienta local-first de proyección de ventas (Forecast PAO) que reemplaza flujos de Excel con escenarios, coeficientes de estacionalidad y análisis histórico.",
+  "requestFramePermissions": []
+}
